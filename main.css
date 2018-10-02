@@ -1,1 +1,19 @@
+html {
+  margin:0;
+  padding:0;
+}
 
+body {
+  font-family: "Calibri";
+  font-size: 13px;
+  background-color:#AF4C50; /* Input your own color here; undecided */
+  padding:10px;
+  margin:0px;
+}
+
+section {
+  background-color:#fff;
+  padding:15px;
+  margin-bottom:10px;
+  border-radius:10px;
+}
