@@ -1,19 +1,30 @@
 html {
-  margin:0;
-  padding:0;
-}
+    margin:0;
+    padding:0;
+  }
+  
+  body {
+    
+  }
 
 body {
-  font-family: "Calibri";
-  font-size: 13px;
-  background-color:#AF4C50; /* Input your own color here; undecided */
-  padding:10px;
-  margin:0px;
+    font-family: "Calibri";
+    font-size: 14px;
+    padding:10px;
+    margin:0px;
 }
 
-section {
-  background-color:#fff;
-  padding:15px;
-  margin-bottom:10px;
-  border-radius:10px;
+.whatis {
+    margin-top: 70px;
+    margin-bottom: 5px;
+}
+
+.matesparagraph {
+    margin-top: 0px;
+    margin-bottom: -10px;
+}
+
+.ftcparagraph {
+
+
 }
