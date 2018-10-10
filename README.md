@@ -6,4 +6,4 @@
 2. Email charlesrothmates@gmail.com to get added to the collaborators list.
 3. Make sure to write what you changed in the commit description.
 4. Before you start something, make sure someone else isn't already working on it.
-5. Check out imagepreview.png for a semi-updated preview of the website.
+5. Check out imagepreview.png for a semi-up-to-date preview of the website.
