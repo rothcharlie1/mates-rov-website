@@ -7,11 +7,22 @@
     <!-- Includes jQuery -->
     <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
   </head>
-  <body>
-    <div>
-      <h1 align="center" id="topheader">Welcome to MATES Robotics</h1>
+  <body style="background-color:rgb(0, 150, 255)">
+    <div style="float:left">
+ 
+      <img src="mateslogo.png" width=50% height=50%>
+
     </div>
-    
+    <div style="float:right clear:right">
+      <h1 id="topheader">Welcome to the MATES Robotics Website!</h1>
+    </div>
+    <div align="center" >
+      <h3 class="whatis">What is MATES Robotics?</h3>  
+        <p class="matesparagraph">MATES stands for the Marine Academy of Technology and Environmental Science. It is a STEM-based vocational school in Ocean County.</p>
+        <p class="ftcparagraph">We participate in the <a href="https://www.firstinspires.org/robotics/ftc" style="color:rgb(0, 0, 255)">First Tech Challenge</a> where we compete with other schools to build the best robot for the yearly challenge.</p>
+    </div>  
+      
+      
     <!-- User contact sheet... Put this at the bottom of the document -->
     <form align="center">
       <!-- An input box for username -->
@@ -21,7 +32,7 @@
       <!-- A text area for a submission -->
       <textarea name="message" id="usermsg"></textarea><br />
       <!-- Submits user data through form -->
-      <input type="submit" value="message_data" id="submit_message">
+      <input type="submit" value="Submit Info" id="submit_message">
     </form>
     <script>
       function message_data(); //Handles user input for contact form
