@@ -1,7 +1,5 @@
-# mates-rov-website
-2018-19 Website for MATES ROV
+# Bradyfish Branch
 
-<b>READ THIS BEFORE YOU BEGIN EDITING</b>
-1. Any major changes should be made in separate branches and can be merged later.
-2. Email charlesrothmates@gmail.com to get added to the collaborators list.
-3. Make sure to write what you changed in the commit description.
+I just made this branch so I could put whatever I've done in here.
+
+Check out imagepreview.png for a preview of what the code would look like.
