@@ -14,4 +14,5 @@
 - Competition dates
 - Pictures/gallery
 - Engineering notebook
+- Sponsors page
 - Login system (maybe, comment out of code for now)
