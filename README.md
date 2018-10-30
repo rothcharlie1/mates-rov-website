@@ -1,18 +1,3 @@
-# mates-rov-website
-2018-19 Website for MATES ROV
+I'm gonna get Charlie to move the actual repository to the organization later so we have the real thing and not a forked version of it.
 
-<b>READ THIS BEFORE YOU BEGIN EDITING</b>
-1. Any major changes should be made in separate branches and can be merged later.
-2. Email charlesrothmates@gmail.com to get added to the collaborators list.
-3. Make sure to write what you changed in the commit description.
-4. Before you start something, make sure someone else isn't already working on it.
-5. Check out imagepreview.png for a semi-up-to-date preview of the website.
-
-### Current to-do List
-- Overview of what we do
-- Contact info
-- Competition dates
-- Pictures/gallery
-- Engineering notebook
-- Sponsors page
-- Login system (maybe, comment out of code for now)
+But basically here's the website so far. The plan is to work on it a bunch over the break and hopefully have a barebones functional one by the competition. It's not a priority, though, the robot should definitely come first.
