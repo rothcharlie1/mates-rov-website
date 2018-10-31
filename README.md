@@ -16,5 +16,5 @@
 - Pictures/gallery
 - Engineering notebook
 - Sponsors page
-- Login system (maybe, comment out of code for now)
+- Login system (eventually, commented out of code for now) for members to be able to use a password to get into the Google Drive Folders
 - Move this repository into the matesrobotics organization
