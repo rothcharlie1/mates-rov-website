@@ -1,7 +1,12 @@
-I'm gonna get Charlie to move the actual repository to the organization later so we have the real thing and not a forked version of it.
-
-But basically here's the website so far. It's more of a long-term project so we don't need it right now.
-
-And there's obviously a lot of problems at the moment with formatting and, well, everything. 
-
-https://matesrobotics.github.io/robotics-website/
+https://matesrobotics.github.io/robotics-website/ (if this doesn't work don't worry we'll fix it soon enough)
+=======
+### Current to-do List
+- Create tabs (includes adding a javascript file)
+- Overview of what we do
+- Contact info
+- Competition dates
+- Pictures/gallery
+- Engineering notebook
+- Sponsors page
+- Login system (eventually, commented out of code for now) for members to be able to use a password to get into the Google Drive Folders
+- Move this repository into the matesrobotics organization
